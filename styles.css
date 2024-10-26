@@ -86,7 +86,6 @@ main {
 
     @media (width < 375px) {
         main {
-            height: 30rem;
 
             #profile-photo {
                 width: 50px;
