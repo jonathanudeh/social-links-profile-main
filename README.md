@@ -7,7 +7,7 @@ This project involves building a social links profile, containing introductory a
 ![Project image preview](./images/screenshot.jpg)
 
 ### Live Demo
--Live Site url: [Live site]()
+-Live Site url: [Live site](https://jonathanudeh.github.io/social-links-profile-main/)
 
 ## Features
 - Social links profile displays correctly
